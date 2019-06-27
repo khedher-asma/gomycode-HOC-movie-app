@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/HOC-movie-app/static/css/main.f82eb8b8.chunk.css",
+    "main.js": "/HOC-movie-app/static/js/main.a785fd99.chunk.js",
+    "main.js.map": "/HOC-movie-app/static/js/main.a785fd99.chunk.js.map",
+    "runtime~main.js": "/HOC-movie-app/static/js/runtime~main.cac58955.js",
+    "runtime~main.js.map": "/HOC-movie-app/static/js/runtime~main.cac58955.js.map",
+    "static/css/2.0624914a.chunk.css": "/HOC-movie-app/static/css/2.0624914a.chunk.css",
+    "static/js/2.9da3dce5.chunk.js": "/HOC-movie-app/static/js/2.9da3dce5.chunk.js",
+    "static/js/2.9da3dce5.chunk.js.map": "/HOC-movie-app/static/js/2.9da3dce5.chunk.js.map",
+    "index.html": "/HOC-movie-app/index.html",
+    "precache-manifest.f0052a7391a42f8c8faf27c6f9eaf4f6.js": "/HOC-movie-app/precache-manifest.f0052a7391a42f8c8faf27c6f9eaf4f6.js",
+    "service-worker.js": "/HOC-movie-app/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/HOC-movie-app/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.f82eb8b8.chunk.css.map": "/HOC-movie-app/static/css/main.f82eb8b8.chunk.css.map"
+  }
+}
